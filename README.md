@@ -19,14 +19,18 @@ The Last Layer of the [Inception Model](https://research.googleblog.com/2016/03/
 
 ### Upon feeding novel images of each city to the network, the network predicted the correct city 3 out of 4 times. (EXCITING!!!)
 
-![el](test_photos/seattle/img_001.jpg)
 ###### The network predicted Seattle incorrectly (~ 14.5% confidence)
-![el](test_photos/san-francisco/img_001.jpg)
+![el](test_photos/seattle/img_001.jpg)
+
 ###### The network predicted San-Francisco correctly (~91% confidence)
-![el](test_photos/new-york/img_001.jpg)
+![el](test_photos/san-francisco/img_001.jpg)
+
 ###### The network predicted New-York correctly (~88% confidence)
-![el](tes_photos/chicago/img_001.jpg)
+![el](test_photos/new-york/img_001.jpg)
+
 ###### The network predicted Chicago correctly (~91% confidence)
+![el](test_photos/chicago/img_001.jpg)
+
 
 ### Here are the raw results.
 ![el](test_photos/results.png)
